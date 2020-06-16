@@ -10,7 +10,7 @@ As mentioned, this project was part of a Kaggle competition.
 
 # Data Acquisition & Cleaning
 
-Because this was a Kaggle competition, the dataset was provided for me, but it did not come in anything close to perfect condition. There were a large number of columns with improper datatypes as well as a good chunk of missing data. For this missing data, I chose to use a for of cohort mean imputation, wherein I filled missing values with the average from homes in the surrounding area.
+Because this was a Kaggle competition, the dataset was provided for me, but it did not come in anything close to perfect condition. There were a large number of columns with improper datatypes as well as a good chunk of missing data. For this missing data, I chose to use a form of cohort mean imputation, wherein I filled missing values with the average from homes in the surrounding area.
 
 # EDA
 
