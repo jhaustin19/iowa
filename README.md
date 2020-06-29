@@ -26,4 +26,4 @@ I fit a variety of models, but the one that performed the best ended up being a 
 - My RMSE is not bad, perhaps even good enough for the model to be deployed
 - However, there is obvious room for improvement
     - Most notably, I should have made use of more of the features available to me. In particular, the neighborhood a home is in was not used by my model because of the simple fact that I didn't dummify the feature
-    - In addition, given the shear number of features, it would be wise to try something like principipal component regression for dimensionality reduction
+    - In addition, given the shear number of features, it would be wise to try something like principal component regression for dimensionality reduction
